@@ -1,0 +1,35 @@
+_repo: Kuningasten-jalkelainen-Seikkailuromaani_51406
+_version: 0.0.1
+alternative_title: Der Enkel der Könige. Finnish
+contributor:
+  translator:
+    agent_name: Swan, Anni
+    alias: Swan-Manninen, Anni Emilia
+    birthdate: 1875
+    deathdate: 1958
+    gutenberg_agent_id: '47803'
+    url: http://www.gutenberg.org/2009/agents/47803
+creator:
+  author:
+    agent_name: Treller, Franz
+    birthdate: 1839
+    deathdate: 1908
+    gutenberg_agent_id: '46397'
+    url: http://www.gutenberg.org/2009/agents/46397
+    wikipedia: https://de.wikipedia.org/wiki/Franz_Treller
+description: ''
+gutenberg_issued: '2016-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51406'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into Finnish'
+- !lcc 'PT'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: 'Kuningasten jälkeläinen: Seikkailuromaani'
+url: http://www.gutenberg.org/ebooks/51406
